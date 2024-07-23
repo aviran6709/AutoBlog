@@ -47,14 +47,6 @@ Update the list of casinos in the `auto_blog_tool.py` script with the relevant d
 
 
 
-# Define a list of casinos
-casinos = [
-    {
-        'title': "Fitzwilliam Casino & Card Club",
-        'address': "Clifton Hall, Lower Fitzwilliam Street, Dublin 2, Ireland",
-        'image': 'casino_logo',
-        'query': "Fitzwilliam Casino & Card Club - Clifton Hall, Lower Fitzwilliam Street, Dublin 2, Ireland כתוב לי כמה שורות בעברית בלבד  על הקזינו מתי מלא אנשים איך הוא מומלץ או לא",
-    },
-    # More casinos
-]
-
+# Define an api configuration  
+get api details 
+https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-3-medium-diffusers
