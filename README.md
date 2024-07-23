@@ -11,6 +11,19 @@ Auto Blog Tool is a powerful solution designed to streamline the content creatio
 - **WordPress Integration:** Creates and publishes posts on WordPress with the generated content and images.
 - **Customizable Data Sources:** Supports integration with different data sources to pull in relevant information.
 
+- **Libraries and Frameworks**:
+  - **Requests**: For making HTTP requests.
+  - **Gradio**: For interacting with AI models and APIs.
+  - **Dotenv**: For loading environment variables.
+
+- **APIs**:
+  - **Stable Diffusion API**: For generating images related to the content.
+  - **Gradio API**: For handling natural language queries.
+
+- **WordPress**:
+  - **REST API**: For creating posts and uploading media.
+
+
 ## Installation
 
 1. **Clone the Repository:**
